@@ -4,6 +4,8 @@
 
 (global-display-line-numbers-mode 1)
 
+(show-paren-mode 1)
+
 (load-theme 'tsdh-dark t)
 
 
